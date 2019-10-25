@@ -1,0 +1,7 @@
+.idea
+.settings
+.bin
+.classpath
+.project
+teste-de-unidade.iml
+mysql-connector-java.jar
